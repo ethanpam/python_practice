@@ -44,6 +44,9 @@ def analyzeTemps(temps):
         count = count + 1
     avg_temp = total/count
     
+    #Concise version w/o count in loop
+    #avg_temp = total/len(temps)
+    
     for t in temps:
         if t > avg_temp:
             above_avg_temp = above_avg_temp + 1
@@ -54,6 +57,14 @@ def analyzeTemps(temps):
     results['avg'] = round(avg_temp, 1)
     results['above_avg'] = above_avg_temp
     return results
+
+    #Concise verison
+    #return result {
+        #['max'] = max_temp
+        #['min'] = min_temp
+        #['avg'] = round(avg_temp, 1)
+        #'above_avg'] = above_avg_temp
+    #} no variable needed
 
 def main():
     temps = []
