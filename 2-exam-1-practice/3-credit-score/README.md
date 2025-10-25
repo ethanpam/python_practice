@@ -1,4 +1,5 @@
 COM S 1270  Exam #1 Practice Version
+
 C) Credit Score Category
 
 Write a function called creditCategory that

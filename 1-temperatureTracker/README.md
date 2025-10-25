@@ -1,4 +1,6 @@
-The Temperature Tracker    10-19-25      
+The Temperature Tracker
+10-19-25      
+
 You are building a simple temperature analyzer for the weather station. The station collects temperatures throughout the day (in celsius) and stores them in a list
 
 Your job is to write a function analyzeTemps(temps) that takes a list of numbers and returns a dictionary with the following keys:

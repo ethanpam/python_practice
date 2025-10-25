@@ -1,4 +1,5 @@
-Run-Length Encoder/Decoder          10-20-25
+Run-Length Encoder/Decoder
+10-20-25
 
 Goal
 Write two functions:

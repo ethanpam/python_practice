@@ -1,4 +1,6 @@
-COM S 1270 Exam #1 Practice Verison        10-20-25
+COM S 1270 Exam #1 Practice Verison
+10-20-25
+
 B) Buses Needed
 
 Each bus can carry 50 passengers. Write a function busesNeeded that

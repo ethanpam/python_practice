@@ -1,4 +1,6 @@
-COM S 1270 Exam #1 PRACTICE VERSION     10-19-25
+COM S 1270 Exam #1 PRACTICE VERSION
+10-19-25
+
 A) Shipping Cost Calculator
 
 A storage charges shipping based on package weight:
