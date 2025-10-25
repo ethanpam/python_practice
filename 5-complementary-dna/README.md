@@ -1,4 +1,6 @@
-Complementary DNA              10-25-25
+Complementary DNA              
+10-25-25
+
 Given a string representing a DNA sequence, return its complementary strand using the following rules:
 
 DNA consists of the letters "A", "C", "G", and "T".
